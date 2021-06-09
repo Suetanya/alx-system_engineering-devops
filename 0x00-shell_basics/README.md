@@ -1,1 +1,1 @@
- displaying contents of directory in long format including hidden files numerically
+Creating a new directory
