@@ -1,1 +1,1 @@
-Script displaying contents of directory in long format including hidden files
+ displaying contents of directory in long format including hidden files
