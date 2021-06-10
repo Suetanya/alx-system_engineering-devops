@@ -1,1 +1,1 @@
-Script to go back to a previous directory
+Script to list all files
